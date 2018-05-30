@@ -1,0 +1,19 @@
+{
+  "name": "i-try-multi-repo",
+  "version": "1.0.0",
+  "description": "try to use one repo for multiple packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-try-it/i-try-multi-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-try-it/i-try-multi-repo/issues"
+  },
+  "homepage": "https://github.com/i-try-it/i-try-multi-repo#readme"
+}
